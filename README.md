@@ -19,7 +19,7 @@ CRON_Log.txt文件会自动创建</br>
 ![image](https://github.com/Amaury-GitHub/CRON/blob/main/README_IMG/IMG1.png)<br>
 ## 截图
 ![image](https://github.com/Amaury-GitHub/CRON/blob/main/README_IMG/IMG2.png)<br>
-建议使用cmd来调用exe,实测可以直接填exe的路径,但是log有问题,执行后只有开始标志,exe关闭后才有结束标志</br></br>
+建议使用cmd来调用exe,修改更方便</br></br>
 ![image](https://github.com/Amaury-GitHub/CRON/blob/main/README_IMG/IMG3.png)<br>
 ![image](https://github.com/Amaury-GitHub/CRON/blob/main/README_IMG/IMG4.png)<br>
 ![image](https://github.com/Amaury-GitHub/CRON/blob/main/README_IMG/IMG5.png)<br>
