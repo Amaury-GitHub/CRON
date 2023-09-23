@@ -12,6 +12,7 @@
 使用txt文件存储日志</br>
 核心文件只有[CRON.exe](https://github.com/Amaury-GitHub/CRON/blob/main/CRON/CRON.exe)和[CRON_Config.ini](https://github.com/Amaury-GitHub/CRON/blob/main/CRON/CRON_Config.ini)</br>
 CRON_Log.txt文件会自动创建</br>
+托盘程序,不打扰</br>
 右键菜单可直达配置文件与日志文件</br>
 
 ![image](https://github.com/Amaury-GitHub/CRON/blob/main/README_IMG/IMG1.png)<br>
