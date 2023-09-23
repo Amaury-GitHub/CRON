@@ -1,0 +1,39 @@
+2023/09/23 20:38:46 Add task successfully: Task1
+2023/09/23 20:38:46 Add task successfully: Task2
+2023/09/23 20:38:46 Add task successfully: Task3
+2023/09/23 20:39:00 Task execution starts: Task1
+
+正在 Ping baidu.com [198.18.10.19] 具有 32 字节的数据:
+来自 198.18.10.19 的回复: 字节=32 时间=2ms TTL=64
+
+198.18.10.19 的 Ping 统计信息:
+    数据包: 已发送 = 1，已接收 = 1，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 2ms，最长 = 2ms，平均 = 2ms
+2023/09/23 20:39:00 Task execution successful: Task1
+2023/09/23 20:39:20 Task execution starts: Task2
+
+D:\Play\GoLang\CRON>ping -n 1 baidu.com 
+
+正在 Ping baidu.com [198.18.10.19] 具有 32 字节的数据:
+来自 198.18.10.19 的回复: 字节=32 时间=2ms TTL=64
+
+198.18.10.19 的 Ping 统计信息:
+    数据包: 已发送 = 1，已接收 = 1，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 2ms，最长 = 2ms，平均 = 2ms
+2023/09/23 20:39:20 Task execution successful: Task2
+2023/09/23 20:39:40 Task execution starts: Task3
+
+D:\Play\GoLang\CRON>start "exe" "D:\SynologyDrive\3_Resources\Siemens\TIA\Patch\AutoClose_WinCC_Infomation.exe" 
+2023/09/23 20:39:40 Task execution successful: Task3
+2023/09/23 20:40:00 Task execution starts: Task1
+
+正在 Ping baidu.com [198.18.10.19] 具有 32 字节的数据:
+来自 198.18.10.19 的回复: 字节=32 时间=1ms TTL=64
+
+198.18.10.19 的 Ping 统计信息:
+    数据包: 已发送 = 1，已接收 = 1，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 1ms，最长 = 1ms，平均 = 1ms
+2023/09/23 20:40:00 Task execution successful: Task1
