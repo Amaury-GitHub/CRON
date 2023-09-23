@@ -8,7 +8,7 @@
 ## 功能介绍
 使用ini文件存储相关参数,实现了一个通用程序,本程序只负责调用外部程序,可以增减task的数量,定时部分使用标准的cron参数</br>
 [在线Cron表达式生成器](https://cron.qqe2.com/)</br>
-执行的命令不支持中文</br>
+命令不支持中文,会乱码,不能正常执行</br>
 没有动态读取的功能,改变ini后需要重启程序</br>
 使用txt文件存储日志</br>
 核心文件只有[CRON.exe](https://github.com/Amaury-GitHub/CRON/blob/main/CRON/CRON.exe)和[CRON_Config.ini](https://github.com/Amaury-GitHub/CRON/blob/main/CRON/CRON_Config.ini)</br>
